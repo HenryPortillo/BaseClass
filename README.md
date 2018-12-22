@@ -1,3 +1,3 @@
 # BaseClass
 
-This is cool
+This is AWESOME!
